@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Interpreting Higgs Boson Interaction Network with Layerwise Relevance Propagation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+While graph interaction networks achieve exceptional results in Higgs boson identification, GNN explainer methodology is still in its infancy.  We apply layerwise relevance propagation (LRP) to our existing Higgs boson interaction network (HIN) to calculate relevance scores and reveal what features, nodes, and connections are most influential in prediction. We call this union HIN-LRP. The synergy between the LRP interpretation and the inherent structure of the HIN is such that HIN-LRP  is able to illuminate which particles and particle features in a given jet are most significant in Higgs boson identification. The resulting interpretations are ultimately congruent with what extant particle physics theory would suggest is most relevant—the presence of muons, the characteristics of secondary decay, and features such as impact parameter and momentum.
