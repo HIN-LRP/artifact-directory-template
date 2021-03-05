@@ -1,5 +1,5 @@
 {
-    "this-repository": "https://github.com/HIN-LRP/artifact-directory-template.git",
+    "this-repository": "https://github.com/Indigo410/artifact-directory-template.git",
     "project-repository": "https://github.com/HIN-LRP/Interpret-InteractionNetwork.git",
     "dockerhub-repository": "shiro0x19a/higgs-interaction-network:latest",
     "project-website-url": "https://hin-lrp.github.io/",
